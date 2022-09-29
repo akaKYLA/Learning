@@ -1,0 +1,11 @@
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\LogicLayer\obj\Debug\LogicLayer.pdb

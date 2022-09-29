@@ -1,0 +1,9 @@
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\bin\Debug\EntityLayer.dll
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\kadir\Desktop\Code\C#\NKatmanliPersonel\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
