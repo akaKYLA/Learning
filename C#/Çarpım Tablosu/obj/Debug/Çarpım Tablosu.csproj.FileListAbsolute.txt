@@ -1,0 +1,8 @@
+C:\Users\kadir\Desktop\Code\C#\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.exe.config
+C:\Users\kadir\Desktop\Code\C#\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.exe
+C:\Users\kadir\Desktop\Code\C#\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.pdb
+C:\Users\kadir\Desktop\Code\C#\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadir\Desktop\Code\C#\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Code\C#\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.exe
+C:\Users\kadir\Desktop\Code\C#\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.pdb
+C:\Users\kadir\Desktop\Code\C#\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.AssemblyReference.cache

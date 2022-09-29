@@ -1,0 +1,8 @@
+C:\Users\kadir\Desktop\Code\C#\Giriş\bin\Debug\Giriş.exe.config
+C:\Users\kadir\Desktop\Code\C#\Giriş\bin\Debug\Giriş.exe
+C:\Users\kadir\Desktop\Code\C#\Giriş\bin\Debug\Giriş.pdb
+C:\Users\kadir\Desktop\Code\C#\Giriş\obj\Debug\Giriş.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Code\C#\Giriş\obj\Debug\Giriş.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadir\Desktop\Code\C#\Giriş\obj\Debug\Giriş.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Code\C#\Giriş\obj\Debug\Giriş.exe
+C:\Users\kadir\Desktop\Code\C#\Giriş\obj\Debug\Giriş.pdb

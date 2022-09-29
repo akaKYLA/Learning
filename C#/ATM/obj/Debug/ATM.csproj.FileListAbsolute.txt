@@ -1,0 +1,8 @@
+C:\Users\kadir\Desktop\Code\C#\ATM\bin\Debug\ATM.exe.config
+C:\Users\kadir\Desktop\Code\C#\ATM\bin\Debug\ATM.exe
+C:\Users\kadir\Desktop\Code\C#\ATM\bin\Debug\ATM.pdb
+C:\Users\kadir\Desktop\Code\C#\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Code\C#\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadir\Desktop\Code\C#\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Code\C#\ATM\obj\Debug\ATM.exe
+C:\Users\kadir\Desktop\Code\C#\ATM\obj\Debug\ATM.pdb

@@ -1,0 +1,8 @@
+C:\Users\kadir\Desktop\Code\C#\Girdiğim değer dizide var mı (Diziler pratik)\obj\Debug\Girdiğim değer dizide var mı (Diziler pratik).csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Code\C#\Girdiğim değer dizide var mı (Diziler pratik)\obj\Debug\Girdiğim değer dizide var mı (Diziler pratik).csproj.SuggestedBindingRedirects.cache
+C:\Users\kadir\Desktop\Code\C#\Girdiğim değer dizide var mı (Diziler pratik)\obj\Debug\Girdiğim değer dizide var mı (Diziler pratik).csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Code\C#\Girdiğim değer dizide var mı (Diziler pratik)\bin\Debug\Girdiğim değer dizide var mı (Diziler pratik).exe.config
+C:\Users\kadir\Desktop\Code\C#\Girdiğim değer dizide var mı (Diziler pratik)\bin\Debug\Girdiğim değer dizide var mı (Diziler pratik).exe
+C:\Users\kadir\Desktop\Code\C#\Girdiğim değer dizide var mı (Diziler pratik)\bin\Debug\Girdiğim değer dizide var mı (Diziler pratik).pdb
+C:\Users\kadir\Desktop\Code\C#\Girdiğim değer dizide var mı (Diziler pratik)\obj\Debug\Girdiğim değer dizide var mı (Diziler pratik).exe
+C:\Users\kadir\Desktop\Code\C#\Girdiğim değer dizide var mı (Diziler pratik)\obj\Debug\Girdiğim değer dizide var mı (Diziler pratik).pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giriş", "Giriş.csproj", "{8F321AA9-3394-4F80-8C1A-325D6B82710F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "..\ATM\ATM.csproj", "{AAE3AC4E-F905-4C8B-B25C-826F4D39B3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beden Kitle İndeksi", "..\Beden Kitle İndeksi\Beden Kitle İndeksi.csproj", "{D4545D4B-A64A-4678-9007-85C6C4CCC230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çarpım Tablosu", "..\Çarpım Tablosu\Çarpım Tablosu.csproj", "{E993A069-71AF-4253-97E6-E6E8E8048B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girdiğim değer dizide var mı (Diziler pratik)", "..\Girdiğim değer dizide var mı (Diziler pratik)\Girdiğim değer dizide var mı (Diziler pratik).csproj", "{5278E9E4-BD7B-4314-87BD-836F56E69E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ödev1", "..\Ödev1\Ödev1.csproj", "{18264243-BA9A-4975-953A-F1334789A818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verilen değerin karesini alma(methodla)", "..\Verilen değerin karesini alma(methodla)\Verilen değerin karesini alma(methodla).csproj", "{842DD9A8-F643-4AB7-B5C7-1E61666EDF8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F321AA9-3394-4F80-8C1A-325D6B82710F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F321AA9-3394-4F80-8C1A-325D6B82710F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F321AA9-3394-4F80-8C1A-325D6B82710F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F321AA9-3394-4F80-8C1A-325D6B82710F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE3AC4E-F905-4C8B-B25C-826F4D39B3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE3AC4E-F905-4C8B-B25C-826F4D39B3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE3AC4E-F905-4C8B-B25C-826F4D39B3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE3AC4E-F905-4C8B-B25C-826F4D39B3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4545D4B-A64A-4678-9007-85C6C4CCC230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4545D4B-A64A-4678-9007-85C6C4CCC230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4545D4B-A64A-4678-9007-85C6C4CCC230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4545D4B-A64A-4678-9007-85C6C4CCC230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E993A069-71AF-4253-97E6-E6E8E8048B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E993A069-71AF-4253-97E6-E6E8E8048B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E993A069-71AF-4253-97E6-E6E8E8048B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E993A069-71AF-4253-97E6-E6E8E8048B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5278E9E4-BD7B-4314-87BD-836F56E69E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5278E9E4-BD7B-4314-87BD-836F56E69E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5278E9E4-BD7B-4314-87BD-836F56E69E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5278E9E4-BD7B-4314-87BD-836F56E69E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18264243-BA9A-4975-953A-F1334789A818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18264243-BA9A-4975-953A-F1334789A818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18264243-BA9A-4975-953A-F1334789A818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18264243-BA9A-4975-953A-F1334789A818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842DD9A8-F643-4AB7-B5C7-1E61666EDF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842DD9A8-F643-4AB7-B5C7-1E61666EDF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842DD9A8-F643-4AB7-B5C7-1E61666EDF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842DD9A8-F643-4AB7-B5C7-1E61666EDF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E918AD2-2D0B-4659-9AE5-F4EA258D3B83}
+	EndGlobalSection
+EndGlobal

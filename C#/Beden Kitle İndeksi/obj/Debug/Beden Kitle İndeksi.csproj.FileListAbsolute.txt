@@ -1,0 +1,8 @@
+C:\Users\kadir\Desktop\Code\C#\Beden Kitle İndeksi\bin\Debug\Beden Kitle İndeksi.exe.config
+C:\Users\kadir\Desktop\Code\C#\Beden Kitle İndeksi\bin\Debug\Beden Kitle İndeksi.exe
+C:\Users\kadir\Desktop\Code\C#\Beden Kitle İndeksi\bin\Debug\Beden Kitle İndeksi.pdb
+C:\Users\kadir\Desktop\Code\C#\Beden Kitle İndeksi\obj\Debug\Beden Kitle İndeksi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Code\C#\Beden Kitle İndeksi\obj\Debug\Beden Kitle İndeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadir\Desktop\Code\C#\Beden Kitle İndeksi\obj\Debug\Beden Kitle İndeksi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Code\C#\Beden Kitle İndeksi\obj\Debug\Beden Kitle İndeksi.exe
+C:\Users\kadir\Desktop\Code\C#\Beden Kitle İndeksi\obj\Debug\Beden Kitle İndeksi.pdb
